@@ -1,0 +1,30 @@
+{
+  "name": "hypertree-hyperapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html -p 7777"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitrykurmanov/hypertree-hyperapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmitrykurmanov/hypertree-hyperapp/issues"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-2": "^6.24.1",
+    "jest": "^23.1.0",
+    "parcel-bundler": "^1.8.1"
+  },
+  "dependencies": {
+    "hyperapp": "^1.2.5",
+    "hypertree": "^1.0.2"
+  },
+  "homepage": "https://github.com/dmitrykurmanov/hypertree-hyperapp#readme"
+}
